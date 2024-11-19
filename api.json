@@ -1,0 +1,5 @@
+{
+    "header": "hello from json",
+    "body": "this is body from json",
+    "footer": "this is footer from json"
+}
